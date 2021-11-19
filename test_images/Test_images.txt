@@ -1,0 +1,12 @@
+C:\Users\Jeremiah\Desktop\python projects\test_images\freakles_img_1.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\freakles_img_2.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\normalglasses.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\normalglasses2.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\picture1.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\picture2.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\picture3.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\picture4.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\picture5.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\statute.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\statute2.jpg
+C:\Users\Jeremiah\Desktop\python projects\test_images\sunglasses.jpg
